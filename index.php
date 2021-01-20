@@ -8,7 +8,7 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP Legal</h1>
+        <h1>Curso PHP</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
     <main class="principal">
@@ -50,6 +50,11 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=multi">
                                 Multidimensionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Arrays Constantes
                             </a>
                         </li>
                     </ul>    
